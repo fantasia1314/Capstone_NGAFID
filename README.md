@@ -1,7 +1,5 @@
-# Capstone Project
 # Anomaly Detection for NGAFID-MC dataset
 
-<h1> Our Project
 </h1>
 
 <p> My project focusing on implementing multiple anomaly detection neural network. Currently we are working on three seperate implementations, a CNN model, a LSTM model , CNN autoencoder, LSTM autoencoder
